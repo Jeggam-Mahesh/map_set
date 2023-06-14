@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    background-color: darkgreen;
+}
+h2{
+    color: brown;
+}
+.qstn{
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+.ans{
+    font-size: xx-large;
+    color: blue;
+}
